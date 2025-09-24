@@ -1,5 +1,7 @@
 # HR Analytics Project – Workforce Insights
 
+"C:\Users\sushm\Downloads\HR.png"
+
 ## Problem Statement
 
 Organizations often struggle to understand workforce trends, including attrition, salary disparities, and experience gaps. HR teams need actionable insights to optimize retention, workforce planning, and compensation strategies.
