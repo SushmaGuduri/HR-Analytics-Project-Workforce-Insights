@@ -56,7 +56,7 @@ Organizations often struggle to understand workforce trends, including attrition
 
 ## Tools Used
 
-🔹Power BI: Data modeling, DAX, visualization
+🔹Power BI:  DAX, visualization
 
 ## What I Learned
 
