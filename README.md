@@ -1,6 +1,7 @@
 # HR Analytics Project – Workforce Insights
 
-"C:\Users\sushm\Downloads\HR.png"
+<img width="966" height="541" alt="{89E03DBA-5450-4284-B6DF-CB3825DC8BCD}" src="https://github.com/user-attachments/assets/a0c828ef-a9af-45ab-a242-85bc4fdd7466" />
+
 
 ## Problem Statement
 
